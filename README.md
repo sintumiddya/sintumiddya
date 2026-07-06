@@ -187,13 +187,13 @@
 
 # 📫 Connect With Me
 
-📧 Email: YOUR_EMAIL@gmail.com
+📧 Email: sintumiddya1@gmial.com
 
 💼 LinkedIn: YOUR_LINKEDIN_URL
 
 🌐 Portfolio: YOUR_PORTFOLIO_URL
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/sintumiddya
 
 ---
 
