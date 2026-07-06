@@ -1,102 +1,208 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Sintu Kr. Middya</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🌐 IoT Developer | 🚀 Tech Explorer</h3>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
 
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+## 👨‍💻 About Me
+
+🎓 B.Tech CSE Student at **Gargi Memorial Institute of Technology**
+
+- 🔭 Currently working on **AI, Machine Learning & IoT Projects**
+- 🌱 Learning **Deep Learning, Computer Vision & Generative AI**
+- 💻 Full Stack Developer using **MERN Stack, Django & PHP**
+- 🤖 Passionate about **Artificial Intelligence, Robotics & Automation**
+- 🌐 Building Smart IoT Systems using **ESP32, Arduino & Raspberry Pi**
+- 📚 Love learning new technologies and solving real-world problems
+- ⚡ Fun Fact: **Coffee + Coding = Happiness ☕**
+
+---
+
+# 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45"/>
+</p>
+
+---
+
+### 🤖 AI • Machine Learning • Data Science
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+</p>
+
+---
+
+### 🌐 IoT & Embedded Systems
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45"/>
+</p>
+
+- ESP32
+- Arduino UNO
+- Raspberry Pi
+- MQTT
+- Sensors
+- Automation
+- Smart Home
+
+---
+
+### ⚙️ Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🚀 Featured Skills
+
+- 💻 Full Stack Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Internet of Things (IoT)
+- 📊 Data Science
+- 👁 Computer Vision
+- ☁ Cloud Computing
+- 🔐 Cyber Security Basics
+- 📱 Responsive Web Design
+- ⚙ REST API Development
+
+---
+
+# 🎯 Current Goals
+
+✅ Build AI-powered Applications
+
+✅ Smart IoT Projects
+
+✅ Open Source Contributions
+
+✅ Learn Generative AI
+
+✅ Master MERN Stack
+
+✅ Explore Cloud Technologies
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: YOUR_EMAIL@gmail.com
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" />
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+### 🚀 Happy Coding!
+
 </div>
-
-###
-
-<h1 align="center">Hi, I'm Sintu Kr. Middya 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-🎓 B.Tech CSE Student at <b>Gargi Memorial Institute of Technology</b><br><br>
-
-🔭 I’m passionate about Web Development, IoT, and Robotics.<br>
-💻 I work with Python, Django, PHP, MERN Stack, and WordPress.<br>
-🌱 Currently learning Advanced MERN Stack and AI & Machine Learning.<br>
-⚡ I love building IoT and Web Development projects and exploring new technologies.
-</p>
-
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-</div>
-
-###
-
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
-</div>
-
-###
-
-<h3 align="left">📫 Contact Me</h3>
-
-<p align="left">
-💼 LinkedIn: <a href="YOUR_LINKEDIN_URL">Your LinkedIn</a><br>
-📧 Email: your-email@example.com
-</p>
-
-###
-
-<h3 align="left">⚡ Fun Fact</h3>
-
-<p align="left">
-I love building IoT, Robotics, and Full-Stack Web Development projects while continuously learning new technologies. 🚀
-</p>
