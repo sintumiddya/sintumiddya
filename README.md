@@ -148,7 +148,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sintumiddya&theme=react-dark"/>
 
 </p>
 
@@ -201,7 +201,7 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sintumiddya&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 ### 🚀 Happy Coding!
 
